@@ -2,7 +2,7 @@ Readme - Projet Microservices avec Spring Cloud
 
 Équipe de développement
 Abdellah Benabdennour
-Nisrine Benabdennour
+Nisrine Hanout
 Hoda El Mgadmi
 Introduction
 
