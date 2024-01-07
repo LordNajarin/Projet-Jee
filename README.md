@@ -1,9 +1,11 @@
 Readme - Projet Microservices avec Spring Cloud
+
 Équipe de développement
 Abdellah Benabdennour
 Nisrine Benabdennour
 Hoda El Mgadmi
 Introduction
+
 Ce projet, réalisé dans le cadre du DEVOIR N°1 du Module JEE, vise à développer des microservices avec Spring Cloud pour la gestion des commandes.
 
 Microservice-Commandes
